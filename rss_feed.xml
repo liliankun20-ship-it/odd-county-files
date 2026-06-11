@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>Odd County Files</title>
+    <link>https://corysclaw.github.io/odd-county-files/</link>
+    <language>en</language>
+    <description>Strange local history, forgotten crime, eerie folklore, and the kind of stories that make you look over your shoulder. Stories that are strange but true.</description>
+    <itunes:author>Odd County Files</itunes:author>
+    <itunes:image href="https://corysclaw.github.io/odd-county-files/cover.png"/>
+    <itunes:category text="True Crime"/>
+    <itunes:category text="History"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+        <itunes:name>Odd County Files</itunes:name>
+        <itunes:email>oddcountyfiles@gmail.com</itunes:email>
+    </itunes:owner>
+
+
+    <item>
+        <title>EP001: The Loneliest Phone Booth in the Mojave Desert</title>
+        <link>https://corysclaw.github.io/odd-county-files/ep001</link>
+        <description>A single payphone, miles from anywhere, in the middle of the Mojave Desert. In 1997 the internet discovered it. People drove across the country just to answer it.</description>
+        <enclosure url="https://corysclaw.github.io/odd-county-files/ep001/audio.mp3" length="8039" type="audio/mpeg"/>
+        <guid>odd-county-files-ep001</guid>
+        <pubDate>Thu, 11 Jun 2026 10:00:00 GMT</pubDate>
+        <itunes:duration>05:42</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+    </item>
+
+    <item>
+        <title>EP002: Lawn Chair Larry</title>
+        <link>https://corysclaw.github.io/odd-county-files/ep002</link>
+        <description>In 1982, a California man bought 45 weather balloons, strapped them to a lawn chair, and flew to 16,000 feet. The FAA was not amused.</description>
+        <enclosure url="https://corysclaw.github.io/odd-county-files/ep002/audio.mp3" length="8085" type="audio/mpeg"/>
+        <guid>odd-county-files-ep002</guid>
+        <pubDate>Thu, 11 Jun 2026 10:06:00 GMT</pubDate>
+        <itunes:duration>05:44</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>2</itunes:episode>
+    </item>
+
+    <item>
+        <title>EP003: The Girl Who Fell from the Sky</title>
+        <link>https://corysclaw.github.io/odd-county-files/ep003</link>
+        <description>17-year-old Juliane Koepcke fell 18,000 feet into the Amazon rainforest after her plane broke apart mid-air. She survived alone for 11 days.</description>
+        <enclosure url="https://corysclaw.github.io/odd-county-files/ep003/audio.mp3" length="6962" type="audio/mpeg"/>
+        <guid>odd-county-files-ep003</guid>
+        <pubDate>Thu, 11 Jun 2026 10:12:00 GMT</pubDate>
+        <itunes:duration>04:57</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>3</itunes:episode>
+    </item>
+
+    <item>
+        <title>EP004: The Island That Sank Twice — Bermeja</title>
+        <link>https://corysclaw.github.io/odd-county-files/ep004</link>
+        <description>An island appeared on maps for 400 years. Then in 1997 it vanished. Billions in oil rights depended on whether it existed or not.</description>
+        <enclosure url="https://corysclaw.github.io/odd-county-files/ep004/audio.mp3" length="8182" type="audio/mpeg"/>
+        <guid>odd-county-files-ep004</guid>
+        <pubDate>Thu, 11 Jun 2026 10:18:00 GMT</pubDate>
+        <itunes:duration>05:49</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>4</itunes:episode>
+    </item>
+
+    <item>
+        <title>EP005: The Ghosts of Stanley Hotel</title>
+        <link>https://corysclaw.github.io/odd-county-files/ep005</link>
+        <description>In 1974, Stephen King stayed at an almost empty hotel in Colorado. He had a nightmare. He wrote The Shining. But the ghosts were already there.</description>
+        <enclosure url="https://corysclaw.github.io/odd-county-files/ep005/audio.mp3" length="7931" type="audio/mpeg"/>
+        <guid>odd-county-files-ep005</guid>
+        <pubDate>Thu, 11 Jun 2026 10:24:00 GMT</pubDate>
+        <itunes:duration>05:38</itunes:duration>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>5</itunes:episode>
+    </item>
+
+</channel>
+</rss>
